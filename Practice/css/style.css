@@ -1,0 +1,21 @@
+.img-1 img{
+    height: 200px;
+    width: 100%;
+}
+
+.img-2 img{
+    position: relative;
+    display: block;
+    height: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -60px;
+}
+.social-icon i{
+    padding: 0 0.6rem;
+    font-size: 20px;
+}
+.card{
+    margin: 10px;
+}
